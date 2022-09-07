@@ -20,3 +20,15 @@ a:visited {
   color: unset;
   text-decoration: none;
 }
+
+.dsmeta-container {
+  width: 100%;
+  max-width: 900px;
+  /*alinhando o card ao centro*/
+  margin: 0 auto;
+}
+
+#sales {
+  /*40px na vertical 10px nos lados*/
+  padding: 40px 10px;
+}
