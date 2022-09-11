@@ -14,6 +14,8 @@ onde ao apertar o batão de notificação um SMS é enviado para o celular.
 * H2 DataBase
 
 ![image](https://user-images.githubusercontent.com/79949781/189508674-7239e177-fd77-42e4-8460-001944be68b9.png)
+<p align = "center">
 ![WhatsApp Image 2022-09-10 at 23 03 54](https://user-images.githubusercontent.com/79949781/189508726-0189ecb5-022f-489c-aefb-4e66999b71f9.jpeg)
+</p>  
 
 
