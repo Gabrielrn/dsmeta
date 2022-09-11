@@ -4,7 +4,7 @@ Nesta aplicação é possível filtrarmos as vendas pela data, Ex: é possível 
 onde ao apertar o batão de notificação um SMS é enviado para o celular.
 
 ⚡️ Features
-* Date update 
+* Date picker 
 * Integração com SMS
 
 📚 Técnologias
